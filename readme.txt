@@ -1,0 +1,89 @@
+=== Gutenberg Click to Tweet Block ===
+Author URI: https://coblocks.com
+Plugin URI: https://coblocks.com
+Contributors: richtabor, coblocks, thatplugincompany, themebeans
+Donate link: https://coblocks.com
+Tags: gutenberg, editor, block, twitter, tweet
+Requires at least: 4.7
+Tested up to: 4.9.7
+Requires PHP: 5.2.4
+Stable tag: 1.1.0
+License: GPL-3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+Engage your readers and grow your audience using the CoBlocks Click to Tweet Block within the upcoming Gutenberg WordPress Block Editor.
+
+== Description ==
+
+[CoBlocks](https://coblocks.com?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=coblocks-click-to-tweet-block) is a collection of page builder Gutenberg blocks for content marketers, built by the fine folks at [ThemeBeans](https://themebeans.com?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=coblocks).
+
+= More CoBlocks Blocks =
+
+* Accordion Block
+* Alert Block
+* Author Block
+* Click to Tweet Block
+* Dynamic HR Block
+* Gif Block
+* GitHub Gist Block
+* Spacer Block
+* Social Sharing Block
+
+= A new way to WordPress =
+
+We built [CoBlocks](https://coblocks.com?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=coblocks) for the next-generation block editor, codenamed Gutenberg. This new block editor absolutely empowers people to create rich content in such an intuitive fashion.
+
+Building on top of this new foundational change in content creation, CoBlocks leverages Gutenberg to add even more functionality to the block editor. Space out content, drop in social icons, add gifs — all of these, and more, are new blocks powered by CoBlocks.
+
+Our vision with CoBlocks is to create content blocks that deliver a first-rate experience for writers, content marketers and publishers.
+
+This plugin is created and maintained by [Rich Tabor](https://richtabor.com?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=coblocks-click-to-tweet-block).
+
+= Built with developers in mind =
+
+Extensible, adaptable, and open source — CoBlocks is created with theme and plugin developers in mind. There are opportunities for developers at all levels to get involved. [Click here](https://github.com/thatplugincompany/coblocks) to contribute to CoBlocks.
+
+== Screenshots ==
+
+1. Click to Tweet block: Let folks engage with your site via Click to Tweet
+
+== Installation ==
+
+1. Upload the `click-to-tweet-gutenberg` folder to your `/wp-content/plugins/` directory or alternatively upload the click-to-tweet-gutenberg.zip file via the plugin page of WordPress by clicking 'Add New' and selecting the zip from your local computer.
+2. Install and activate the Gutenberg WordPress plugin.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+3. Add Click to Tweet blocks within Gutenberg with the new "Click to Tweet" block.
+
+== Frequently Asked Questions ==
+
+= How do I start using Gutenberg? =
+To get the full experience of the next-generation WordPress block editor, you'll need a Gutenberg-ready WordPress theme, like [Tabor](https://themebeans.com/themes/tabor?utm_medium=coblocks-lite&utm_source=readme&utm_campaign=readme&utm_content=tabor). Then install the [Gutenberg](https://wordpress.org/plugins/gutenberg/) WordPress plugin. That's it! 💥
+
+= Should I use Gutenberg on my live site? =
+The new block editor is still very much in active development and is not recommended for production websites just yet.
+
+= What WordPress themes work with CoBlocks? =
+Any properly developed WordPress theme will work with CoBlocks, though if you're looking for an exceptional theme for writers and content marketers, check out [Tabor](https://themebeans.com/themes/tabor?utm_medium=coblocks-lite&utm_source=readme&utm_campaign=readme&utm_content=tabor). Developers are also able to apply minor style touch-ups to themes, to make the blocks fit in better with existing themes.
+
+= Is CoBlocks free? =
+Yes! CoBlocks' core features are absolutely free.
+
+= Where can I ask for help? =
+Please reach out via the official [support forum on WordPress.org](https://wordpress.org/support/plugin/coblocks/).
+
+== Changelog ==
+
+= 1.1.0, May 2, 2018 =
+* New: Complete refactor with CoBlocks 💥
+
+= 1.0.1, January 23, 2018 =
+* New: Added a block control input to add your Twitter username
+* Fix: Hashtags now resolve properly
+* Tweak: Added minor front-end styling improvements
+* Tweak: Adjusted variable names for proper formatting
+
+= 1.0.1, January 19, 2018 =
+* Tweak: UI improvements
+
+= 1.0.0, January 12, 2018 =
+* Initial release on WordPress.org. Enjoy!
